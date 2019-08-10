@@ -18,9 +18,10 @@ h2 {
 	display: flex;
 	justify-content: space-between;
 }
-#lista-tweets li .borrar-tweet {
-	align-items: flex-end;
-}
+/*#lista-tweets li .borrar-tweet {
+	justify-content: flex-start;
+	background-color: yellowgreen;
+}*/
 
 /*li a .borrar-tweet {
 	display: block;
