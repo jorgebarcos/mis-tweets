@@ -42,8 +42,8 @@ function agregarTweet(e) {
 function borrarTweet(e) {
 	e.preventDefault();
 	if (e.target.className === 'borrar-tweet') {
-		console.log(e.target.parentElement.remove());
-		alert('Tweet Eliminado');
+		e.target.parentElement.remove();
+		console.log(e.target.parentElement.textContent);
 	}
 }
 
