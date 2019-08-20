@@ -6,7 +6,6 @@
 - El usuario podrá agregar una cantidad ilimitada de tweets
 - al cargar la página los tweets deben cargarse de Local Storage, al eliminarse deben quitarse de Local Storage.
 
-#### Vanilla JS (JavaScript puro sin Framework o Librerías)
 
 ### Preview
 
